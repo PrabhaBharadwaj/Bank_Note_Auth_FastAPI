@@ -30,3 +30,15 @@ Here we used FastAPI web application Framework and deployed in Heroku(PlatformAs
 		Procfile
 		Banknotes.py  (This is user defined file. inside we used library - pydantic base model to build the BankNote CLASS
 				 to post column name in web)
+				 
+
+### FastAPI LIBRARY:
+
+	Its a WEB APP FRAMEWORK like FLASK and Streamlit or Django
+	In FastAPI no need to have template folder, static folder with xml file like Flask . 
+	Its app.py file only will have html and python code integrated to make our web page design
+	Its a WEB APP FRAMEWORK like FLASK and Streamlit. Its somewhere between Flask and Django 
+	FastAPI Has more properties than Flask. One of the fastest Python frameworks it is.
+	FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints.
+	Its very fast because it has properties like ASGI (Asynchronous Server Gate Way Interface)
+	Flask and Django uses WSGI (Web Server Gate Way Interface) default. (We can change to ASGI in Django with some code change)
